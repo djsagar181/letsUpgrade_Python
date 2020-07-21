@@ -1,0 +1,29 @@
+1)Python-
+Python is an interpreted, high-level, general-purpose programming language. Created by Guido van Rossum and first released in 1991.
+It becomes most popular programming language in year 2006.
+
+Advantages-
+1.Easy to learn.
+2.As compare to other languages it requires less code.
+3.Syntax are so easy.
+4.Getting popular by utilized by each resourse which used in current companies.
+5.Availability of open sourse libraries.
+
+How to install python.
+
+NOTE-I currently used pycharm and python ide so i know this installation.
+
+1.Download python ide from python.org for windows machine and install the same.
+2.this will open on terminal like cmd where you can write code and will display output.
+3.PyCharm is an integrated development environment used in computer programming, specifically for the Python language. 
+It is developed by the Czech company JetBrains.PyCharm makes it easier for programmers to write various web applications in Python supporting widely 
+used web technologies like HTML, CSS, JavaScript, TypeScript and CoffeeScript.
+PyCharm further allows developers to avail a JavaScript debugger as well as CoffeeScript and TypeScript editors.
+4.Anaconda-Anaconda is created by Continuum Analytics, and it is a Python distribution that comes preinstalled with lots of useful python libraries 
+for data science. We use below steps for installing anaconda.
+a.Visit Anaconda.com/downloads.
+b.Select Windows.
+c.Download the .exe installer.
+d.Open and run the .exe installer.
+e.Open the Anaconda Prompt and run some Python code.
+

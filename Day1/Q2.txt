@@ -1,0 +1,27 @@
+Code environment
+
+A code environment is a place or a tool/software where we can write our code,run and compile the same.
+After compiling and successfuly execution we can see the result i.e output of our program/code.
+
+
+TYPES OF CODE ENVIRIONMENTS-
+1.Text editors
+2.Full IDE
+3.Notebook environments.
+
+1.Text editors-Like a notepad where we can write any programming code.
+This are general code editor and use for any file types.
+They can be customised as per our use.
+
+2.Full IDE-
+This are developed only for the perticular programming language like for java Eclipse is there.
+For python Pycharm and anaconda IDE is there.
+-Can be customised
+- we can add plugins into it.
+
+3.NoteBook Environment-
+Great for learning.
+see input and output next to each other.
+support videos,notes,visualisations etc.
+special file format
+e.g Jupyter notebook
